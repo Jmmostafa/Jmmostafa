@@ -5,7 +5,7 @@ I’m passionate about **Quantitative Finance** and focused on mastering two key
   
 - **Risk Management** 🛡️  
 - **Asset Pricing** 📊
-- **Trading & Investment Strategies** 📊  
+- **Trading & Investment Strategies** 📈 
   
 ### What I’m Working On:  
 - 🎥 Creating educational videos on **Risk Management** and **Asset Pricing**.  

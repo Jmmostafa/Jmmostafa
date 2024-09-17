@@ -8,12 +8,12 @@ I’m passionate about **Quantitative Finance** and focused on mastering two key
 - **Trading & Investment Strategies** 📈 
   
 ### What I’m Working On:  
-- 🎥 Creating educational videos on **Risk Management** and **Asset Pricing**.  
-- 📚 Publishing example notebooks on [LinkedIn](https://linkedin.com/in/jmmostafakamal/) to help others dive into these topics.  
-- 💡 Developing projects to build my expertise in **Quantitative Risk Management** for the financial sector.  
+- 🎥 **Creating educational videos** on *Risk Management*, *Asset Pricing*, and *Trading & Investment* strategies.  
+- 📚 **Publishing example notebooks** on [LinkedIn](https://linkedin.com/in/jmmostafakamal/) to help others dive into these topics.  
+- 💡 **Developing projects** to build my expertise in *Quantitative Risk Management* for the financial sector.  
   
 ### Why Follow Me?  
-- 🔄 Regular updates with fresh insights, practical examples, and hands-on content.  
+- 🔄 Regular *updates* with fresh insights, practical examples, and hands-on content.  
 - 🚀 I’m on a journey to grow in **Quantitative Risk Management** and excited to share my learning with you!  
   
 Stay tuned for more!

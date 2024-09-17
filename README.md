@@ -1,5 +1,22 @@
 # 💫 About Me:
-👋 Welcome!<br>I’m passionate about Quantitative Finance and focused on mastering two key areas:<br><br>-- Risk Management 🛡️<br>-- Asset Pricing 📊<br><br>**What I’m Working On:**<br>🎥 Creating educational videos on Risk Management and Asset Pricing.<br>📚 Publishing example notebooks on LinkedIn to help others dive into these topics.<br>💡 Developing projects to build my expertise in Quantitative Risk Management for the financial sector.<br><br>Why Follow Me?<br>🔄 Regular updates with fresh insights, practical examples, and hands-on content.<br>🚀 I’m on a journey to grow in Quantitative Risk Management and excited to share my learning with you!<br><br>Stay tuned for more!
+
+### 👋 Welcome!  
+I’m passionate about **Quantitative Finance** and focused on mastering two key areas:  
+  
+- **Risk Management** 🛡️  
+- **Asset Pricing** 📊  
+  
+### What I’m Working On:  
+- 🎥 Creating educational videos on **Risk Management** and **Asset Pricing**.  
+- 📚 Publishing example notebooks on [LinkedIn](https://linkedin.com/in/jmmostafakamal/) to help others dive into these topics.  
+- 💡 Developing projects to build my expertise in **Quantitative Risk Management** for the financial sector.  
+  
+### Why Follow Me?  
+- 🔄 Regular updates with fresh insights, practical examples, and hands-on content.  
+- 🚀 I’m on a journey to grow in **Quantitative Risk Management** and excited to share my learning with you!  
+  
+Stay tuned for more!
+
 
 
 ## 🌐 Socials:

@@ -1,7 +1,7 @@
 # 💫 About Me
 
 ### 👋 Welcome!  
-I’m passionate about **Quantitative Finance, Risk Management & Research** and focused on mastering two key areas:  
+I’m passionate about **Quantitative Finance, Risk Management & Research** and focused on mastering three key areas:  
   
 - **Risk Management** 🛡️  
 - **Asset Pricing** 📊

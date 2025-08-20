@@ -4,7 +4,7 @@
 I’m passionate about **Quantitative Finance, Risk Management & Research** and focused on mastering three key areas:  
   
 - **Risk Management** 🛡️  
-- **Asset Pricing** 📊
+- **Derivatives Pricing** 📊
 - **Trading & Investment Strategies** 📈 
   
 ### What I’m Working On:  
